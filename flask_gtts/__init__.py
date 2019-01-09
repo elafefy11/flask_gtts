@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from flask import url_for, redirect, jsonify, Markup
 from gtts import gTTS
 from static_parameters import function_parameters, class_parameters
